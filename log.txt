@@ -1,3 +1,4 @@
+43fd9c8 Task 1.2
 d883a61 Task 1.2
 5cdcf6f Task 1.1
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
